@@ -1,2 +1,1 @@
-# KatalonStudio_Zufar
-Calculator mengganti theme dan hasil penjumlahan
+# Calculator Mengganti Theme dan Hasil Penjumlahan Menggunakan Katalon Studio
