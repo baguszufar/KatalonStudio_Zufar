@@ -1,1 +1,0 @@
-# KatalonStudio_Zufar
