@@ -1,1 +1,1 @@
-![Test Suit]([C:\Users\badruz\OneDrive\Documents\Eduwork\katalonstudio\eduapp\Reports\20231017_155515\HappyDayShoping\HappyDayShopping\20231017_155515](https://github.com/baguszufar/KatalonStudio_Zufar/blob/main/HappyDayShopping/Test%20Suit/20231017_155515.html)https://github.com/baguszufar/KatalonStudio_Zufar/blob/main/HappyDayShopping/Test%20Suit/20231017_155515.html)
+![Test Suit](https://github.com/baguszufar/KatalonStudio_Zufar/blob/main/HappyDayShopping/Test%20Suit/test%20suite%20happy.png)
